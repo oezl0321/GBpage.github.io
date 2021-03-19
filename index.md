@@ -1,4 +1,29 @@
 # Welcome 作業4 40717006
+
+---
+
+**abc**  
+*abc*  
+~~abc~~  
+
+* list
++ list
+- list
+
+1. 一  
+1.1 一  
+
+2. 二
+3. 三
+
+[oezl0321](https://oezl0321.github.io/)
+
+https://oezl0321.github.io/
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 
