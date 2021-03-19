@@ -21,7 +21,7 @@
 https://oezl0321.github.io/  
 
 ## GIF 
-![bemax1](https://github.com/oezl0321/oezl0321.github.io/blob/main/a.gif "杯麵")  
+![bemax1](https://raw.githubusercontent.com/oezl0321/oezl0321.github.io/main/a.gif "杯麵")  
 
 
 
