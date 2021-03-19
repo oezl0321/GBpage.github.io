@@ -20,7 +20,7 @@
 
 https://oezl0321.github.io/  
 
-![杯麵](https://github.com/oezl0321/oezl0321.github.io/blob/main/Bemax.jpg "杯麵")  
+![bemax1](https://github.com/oezl0321/oezl0321.github.io/blob/main/Bemax.jpg "man")  
 
 
 
