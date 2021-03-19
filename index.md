@@ -20,7 +20,7 @@
 
 https://oezl0321.github.io/  
 
-![bemax1](https://github.com/oezl0321/oezl0321.github.io/blob/main/Bemax.jpg "man")  
+![bemax1](https://github.com/oezl0321/oezl0321.github.io/blob/main/a.gif)  
 
 
 
